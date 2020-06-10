@@ -1,0 +1,20 @@
+/* CSS Document */
+#nav ul li{
+	padding:0 8px;}
+.login_2{
+	display:none;}
+#search{
+	width:12%;}
+#login{
+	margin-right:20px;}
+.login_1{
+	font-size:12px;}
+
+#cont{
+    padding-top:40%;}
+#ban_con{
+	height:inherit;
+	padding-top:57%;
+    background:url(../images/tanabata-1536-878.jpg) no-repeat center;
+	background-size:auto 100%;}
+	

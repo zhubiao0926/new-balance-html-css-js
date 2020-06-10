@@ -1,0 +1,73 @@
+/* CSS Document */
+#header{
+	height:30px;
+	line-height:30px;}
+#h_text{
+	font-size:12px;}
+#h_add{
+	display:none;}
+
+#navbar{
+	display:none;}
+#nav_head{
+	height:54px;
+	position:relative;}
+#nh_i1{
+	position:absolute;
+	top:6px;
+	left:12px;}
+#nh_i2{
+	position:absolute;
+	left:50%;
+	margin-left:-23px;
+	top:13px;}
+#nh_i3{
+	position:absolute;
+	right:15px;
+	top:16px;}
+#nav_search{
+	width:92%;
+	margin:0 auto;
+	position:relative;}
+#nav_search img{
+	position:absolute;
+	right:10px;
+	top:5px;}
+#navbar2{
+	box-shadow: 0 1px 1px rgba(0,0,0,.2);
+	padding-bottom:12px;
+	display:block;}
+	
+#cont{
+	padding-top:57%;}
+	
+#dev{
+	height:inherit;
+	background:none;}
+#dev ul{
+	width:100%;
+	margin-top:0;}
+#dev ul li{
+	width:49%;
+	background:#efefef;
+	margin:0.5%;
+	padding:15px 0;}
+	
+#ban_con{
+	height:inherit;
+	padding-top:57%;
+    background:url(../images/tanabata-1536-878.jpg) no-repeat center;
+	background-size:auto 100%;}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
